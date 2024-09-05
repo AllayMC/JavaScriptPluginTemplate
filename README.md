@@ -23,7 +23,7 @@ cd JavaPluginTemplate
 3. **Change Plugin Information**
 
 - Rename `@JavaScriptPluginTemplate` to `@TheNameYouWant`
-- Edit `plugin.json`
+- Edit [plugin.json](@JavaScriptPluginTemplate/plugin.json)
 
 ## Documentation
 
