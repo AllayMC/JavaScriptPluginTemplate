@@ -10,15 +10,15 @@ Welcome to the javascript plugin template for allay.
 
 1. **Clone this Repository**
 
-   ```bash
-   git clone https://github.com/AllayMC/JavaScriptPluginTemplate.git
-   ```
+```bash
+git clone https://github.com/AllayMC/JavaScriptPluginTemplate.git
+```
    
 2. **Navigate to the Cloned Directory**
 
-   ```bash
-   cd JavaPluginTemplate
-   ```
+```bash
+cd JavaPluginTemplate
+```
    
 3. **Change Plugin Information**
 
