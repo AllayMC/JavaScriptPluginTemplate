@@ -18,13 +18,13 @@ git clone https://github.com/AllayMC/JavaScriptPluginTemplate.git
 2. **Navigate to the Cloned Directory**
 
 ```bash
-cd JavaPluginTemplate
+cd JavaScriptPluginTemplate
 ```
    
 3. **Change Plugin Information**
 
-- Rename `@JavaScriptPluginTemplate` to `@TheNameYouWant`
-- Edit [plugin.json](@JavaScriptPluginTemplate/plugin.json)
+- Rename `JavaScriptPluginTemplate.js` to `TheNameYouWant.js`
+- Edit [plugin.json](JavaScriptPluginTemplate.js/plugin.json)
 
 ## Documentation
 
