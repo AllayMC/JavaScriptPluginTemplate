@@ -5,7 +5,7 @@ Welcome to the javascript plugin template for allay.
 ## Prerequisites
 
 - Allay installed.
-- [JavaScriptPluginExtension](https://github.com/AllayMC/JavaScriptPluginExtension) installed.
+- [ScriptPluginExtension](https://github.com/AllayMC/ScriptPluginExtension) installed.
 
 ## Getting Started
 
